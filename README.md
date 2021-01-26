@@ -1,2 +1,2 @@
-# psScalaProjects
-com.ps.scala.portfolio
+# ps Software Projects
+com.ps.portfolio
